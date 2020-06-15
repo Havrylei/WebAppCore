@@ -9,7 +9,7 @@ namespace WebAppCore.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("It works");
+            return Ok("It a version 1.0.1");
         }
     }
 }
